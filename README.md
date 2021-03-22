@@ -11,5 +11,14 @@
     # install the repo with npm
     npm install
     # start the server
-    npm start
+    ng serve
 in your browser go to http://localhost:4200    
+
+# server side development
+    # change directory
+    cd backend
+    # install the repo with npm
+    npm install
+    # start the server
+    node server.js
+in your browser go to http://localhost:8080  
