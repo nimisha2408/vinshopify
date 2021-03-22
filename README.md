@@ -4,4 +4,12 @@
 * [Nodejs] - server side development
 
 # client side development
-    Run ng serve --port 4200 for a dev server. Navigate to http://localhost:4200. The app will automatically reload if you change any of the source files.
+    # clone the repo from github
+    git clone https://github.com/nimisha2408/vinshopify.git 
+    # change directory
+    cd frontend
+    # install the repo with npm
+    npm install
+    # start the server
+    npm start
+in your browser go to http://localhost:4200    
