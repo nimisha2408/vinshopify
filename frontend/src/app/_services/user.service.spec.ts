@@ -20,7 +20,7 @@ describe('UserService', () => {
     httpMock = TestBed.get(HttpTestingController);
   });
 
-  it(`should fetch posts as an Observable`, async(inject([HttpTestingController, UserService],
+  it(`should fetch users as an Observable`, async(inject([HttpTestingController, UserService],
     (httpClient: HttpTestingController, userService: UserService) => {
 
       const postItem = [
