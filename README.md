@@ -13,7 +13,7 @@
     # start the server
     ng serve
 in your browser go to http://localhost:4200    
-    #test : ng test
+    # test : ng test
 
 # server side development
     # change directory
@@ -23,4 +23,4 @@ in your browser go to http://localhost:4200
     # start the server
     node server.js
 in your browser go to http://localhost:8080  
-    #test : npm test
+    # test : npm test
